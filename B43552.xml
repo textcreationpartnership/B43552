@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mr. Ogilby's design for carrying on his Britannia</title>
+            <author>Ogilby, John, 1600-1676.</author>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43552</idno><idno type="EEBO-CITATION">625106333</idno>
+  <idno type="VID">211288</idno>
+  <idno type="EEBO-PROQUEST">2240886207</idno>
+  
+            <idno type="OCLC"> 625106333</idno>
+            <idno type="OCLC">ocn 625106333</idno>
+            <idno type="STC">Wing O170</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43552)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 211288)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2969:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mr. Ogilby's design for carrying on his Britannia</title>
+                  <author>Ogilby, John, 1600-1676.</author>
+               </titleStmt>
+               <extent>[3] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1674]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Imperfect: creased with print show-through and slight loss of text.</note>
+                  <note>Reproduction of original in: Beinecke Rare Book and Manuscript Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Ogilby, John, 1600-1676. --  Britannia.</term>
+               <term type="topical_term">Advertising fliers --  England --  Early works to 1800.</term>
+               <term type="topical_term">Booksellers and bookselling --  England --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="advert_for_atlas">
+            <pb facs="tcp:211288:1"/>
+            <pb facs="tcp:211288:2"/>
+            <head>Mr. OGILBY's Design For Carrying on His <hi>BRITANNIA.</hi>
+            </head>
+            <p>HIS Majesty having been graciously pleas'd to grant the Undertaker Authority for a General and <hi>Actual Survey</hi> of the Kingdom of <hi>England</hi> and Dominion of <hi>Wales,</hi> and to refer the Consi<g ref="char:EOLhyphen"/>deration and Inspection of the Deligh to <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Privy Council; upon whose Report of the Computation of the Charge to 14 thousand Pounds, and the possibility of perfecting it in good time by a general Subscription, His Majesty was farther graciously pleas'd to be the first Royal Example, by Subscribing 500 <hi>l</hi> for His Royal Self, and 500 <hi>l.</hi> more for his Royal Consort.</p>
+            <p>The Author seriously considering that whatever of this nature has been hitherto attempted, comes infinitly short of the Perfection the Importance of the Subject requires; whether Respect be given to the Historick Part, in which not a Tenth, and sometimes a Twentyeth Part of the Towns have been so much as mention'd; nay, oftentimes the very Hundreds wholly omitted; or the Geographick Part, wherein, as Mr. <hi>Norden</hi> complains, <hi>No Actual Dimensuration was ever perform'd, but a Computation of Distances, by a Cursery Perambulation, made up the Original Work,</hi> from whence, whatever Mr. <hi>Cambden, Speed,</hi> or of late one <hi>Blome</hi> have since done, are but onely Copy'd, with this ill Fate, That as the Original Errors were not onely transferr'd to, but augmented by the additional ones of the later Mapps; so now lastly, the very Performance it self rendred much worse than the meanest of what was before Extant.</p>
+            <p>This has oblig'd our Author to take new Measures, to lay a Foundation worthy so Eminent a Stru<g ref="char:EOLhyphen"/>cture, even such an one as may stand a perfect Model to succeeding Ages; not doubting but by an Encou<g ref="char:EOLhyphen"/>ragement suitable to the worthiness of the Undertaking, to compleat within the space of two Years, a WORK whereof it may be modestly said; That considering the <hi>Actual Survey</hi> of the Kingdom, the Delineation and Dimensuration of the <hi>Reads,</hi> the <hi>Prospects</hi> and <hi>Ground plots</hi> of <hi>Cities,</hi> with other <hi>Ornamentals,</hi> nothing of this Nature requiring so vast a Charge, and such indefatigable Labor and En<g ref="char:EOLhyphen"/>quiry, was ever yet attempted either at Home or Abroad. And this according to the following Method,</p>
+            <div type="part">
+               <head>
+                  <hi>By dividing the WHOLE into Six fair Volumes.</hi> The Four first comprehending the <hi>Historical</hi> and <hi>Geographical Description</hi> of <hi>England,</hi> with the County-Maps truly and <hi>actually Survey'd, viz.</hi>
+               </head>
+               <p>The first Volume containing the South Part of the Kingdom, or the Seventeen Counties of <hi>Essex, Kent, Sussex</hi> and <hi>Surrey; Hampshire, Dorsetsh. Wiltsh.</hi> and <hi>Glocestersh; Hertfordsh, Middlesex, Berksh. Bed<g ref="char:EOLhyphen"/>fordsh. Buckinghamsh.</hi> and <hi>Oxfordsh.; Somersetsh. Devoush.</hi> and <hi>Cornwall.</hi>
+               </p>
+               <p>The Second containing the midle Part of the Kingdom, or the Sixteen Counties of <hi>Suffolk, Norfolk, Cambridge,</hi> and <hi>Huntingdon; Northampton, Rutland, Leicester</hi> and <hi>Warwick; Worcester, Hereford, Salop, Chester</hi> and <hi>Stafford; Derby, Nottingham,</hi> and <hi>Lincoln.</hi>
+               </p>
+               <p>The Third containing the North Part of the Kingdom, or the Six Counties of <hi>York</hi> and <hi>Lancaster, Westmerland,</hi> and <hi>Cumberland, Northumberland,</hi> and the Bishoprick of <hi>Durham.</hi>
+               </p>
+               <p>The Fourth containing the Principality of <hi>Wales,</hi> viz. <hi>Auglesey, Fliut, Denbigh, Carnarvan, Meri<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>neth,</hi> and <hi>Montgomery,</hi> in <hi>North-wales: Cardigan, Carmorthen, Pembrook, Radnor, Brecknock, Gla<g ref="char:EOLhyphen"/>mergan,</hi> (and <hi>Monmouth,</hi> now <hi>English</hi>) in <hi>South-wales.</hi>
+               </p>
+               <p>The fifth containing an <hi>Ichnographical</hi> and <hi>Historical Description</hi> of all the Principal <hi>ROAD-WAYS</hi> in <hi>England</hi> and <hi>Wales,</hi> in two Hundred Copper Sculptures, after a New and Exquisite method.</p>
+               <p>The Sixth containing a New and Accurate Description of the Famous City of <hi>LONDON,</hi> with the perfect <hi>Ichnography</hi> thereof, according to It's Six and Twenty Wards, in a fair large Volume, Illustrated with the <hi>Scenography</hi> of all Eminent Buildings and Places belonging thereunto.</p>
+               <p>The whole WORK attended, with Four large Maps of the Kingdom of <hi>England,</hi> each contain<g ref="char:EOLhyphen"/>ing between Twenty and Thirty Sheets of Royal Paper, according to the Four first Volumes of the <hi>BRITANNIA,</hi> and Two other Maps of the like Size of the Cities of <hi>London</hi> and <hi>Westminster,</hi> curiously and accurately perform'd beyond whatever has been yet attempted for any City of the Universe.</p>
+            </div>
+            <div type="proposals">
+               <pb facs="tcp:211288:3"/>
+               <head>PROPOSALS for Subscribing.</head>
+               <p>WHEREAS the Lords Referrees computed the Charge of the <hi>BRITANNIA</hi> and Book of <hi>ROADS</hi> (to be compris'd in two single Volumes onely) to fourteen Thousand Pounds, the Encouragers may please to take Notice, That upon the present Design of six Volumes, and six large Maps, the whole Charge will amount to twenty Thousand Pounds. Whereby the Intrinsick Value of the Books and Maps will be
+<list>
+                     <item>
+                        <hi>BRITANNIA</hi> the four Volumes Consdering the <hi>Actual Survey &amp;c l.</hi> 12 <hi>s.</hi> 00 <hi>d.</hi> 00 <hi>l.</hi> 34 <hi>s.</hi> 00 <hi>d.</hi> 00</item>
+                     <item>The Volume of the <hi>ROADS</hi> Considering the <hi>Actual Survey &amp;c l.</hi> 05 <hi>s.</hi> 00 <hi>d.</hi> 00 <hi>l.</hi> 34 <hi>s.</hi> 00 <hi>d.</hi> 00</item>
+                     <item>The Description of <hi>LONDON</hi> Considering the <hi>Actual Survey &amp;c l.</hi> 05 <hi>s.</hi> 00 <hi>d.</hi> 00 <hi>l.</hi> 34 <hi>s.</hi> 00 <hi>d.</hi> 00</item>
+                     <item>The four Maps of <hi>ENGLAND</hi> Considering the <hi>Actual Survey &amp;c l.</hi> 08 <hi>s.</hi> 00 <hi>d.</hi> 00 <hi>l.</hi> 34 <hi>s.</hi> 00 <hi>d.</hi> 00</item>
+                     <item>The two Maps of <hi>London</hi> and <hi>Westm</hi> Considering the <hi>Actual Survey &amp;c l.</hi> 04 <hi>s.</hi> 00 <hi>d.</hi> 00 <hi>l.</hi> 34 <hi>s.</hi> 00 <hi>d.</hi> 00</item>
+                  </list>
+               </p>
+               <list>
+                  <head>Propos'd together at 20 <hi>l.</hi>
+                  </head>
+                  <item>I. <hi>To such Honorable and Worthy Persons as are pleas'd to Subscribe for the Whole; whereof to advance</hi> 5 l. <hi>for the Support of the vast Charge of the Survey; at the Receipt of each Volume, to pay</hi> 30 s. <hi>and of each Map</hi> 20 s.</item>
+                  <item>II. <hi>Those that please to Subscribe onely for the first Volume of</hi> BRITANNIA <hi>and the Book of</hi> ROADS; <hi>To advance</hi> 40 s. <hi>and at Receipt of each Vo<g ref="char:EOLhyphen"/>lume</hi> 30 s.</item>
+                  <item>III. <hi>For the first Volume of</hi> BRITANNIA <hi>singly, to advance</hi> 20 s. <hi>and at Receipt of their Book</hi> 40 s.</item>
+                  <item>IV. <gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                     <hi>of their Book</hi> 40 s.</item>
+                  <item>V. <hi>For the Book of</hi> LONDON <hi>singly to advance</hi> 20 s. <hi>and at Receipt of their Book</hi> 40 s.</item>
+                  <item>VI. <hi>For the first great Map of the Southern Part of</hi> ENGLAND <hi>to advance</hi> 10 s. <hi>and at Receipt of the said Map</hi> 20 s.</item>
+                  <item>VII. <hi>For the great Mapp of</hi> LONDON, <hi>to advance</hi> 10 s. <hi>and at Receipt of the said Mapp</hi> 20 s.</item>
+                  <item>VIII. <hi>For the Specimen-County of</hi> ESSEX, <hi>to advance</hi> 5 s. <hi>and at Receipt of the said Specimen,</hi> 5 s.</item>
+                  <item>IX. <hi>Those that please to have their Arms inserted, to deposite</hi> 10 s.</item>
+                  <item>X. <hi>Those that please to have their Descent Registred,</hi> 20 s.</item>
+                  <item>XI. <hi>Those that please to give a Prospect of their Seat in a half Sheet,</hi> 50 s.</item>
+                  <item>XII. <hi>Those that please to bestow a Prospect of their Seat in a whole Sheet,</hi> 5 l.</item>
+               </list>
+               <p>
+                  <hi>For the</hi> Ichnography <hi>and</hi> Prospects <hi>of Cities or other Eminent Places, accord<g ref="char:EOLhyphen"/>ing to the proportionable Merit of the Work, from</hi> 20 <hi>to</hi> 50 l.</p>
+            </div>
+            <div type="notice">
+               <head>Advertisememt.</head>
+               <p>TO such Persons of Honour and Eminency as shall be pleas'd to give the Undertaker extraordinary Encouragements, according to their Digni<g ref="char:EOLhyphen"/>ty and Quality, the Author will make Honorable Presents of the foresaid Volumes, upon Imperial Paper, designing a Hundred of each onely for Re<g ref="char:EOLhyphen"/>turns of this kind.</p>
+            </div>
+            <div type="testimonial">
+               <pb facs="tcp:211288:4"/>
+               <p>
+                  <hi>WE whose Names are hereunder written, are pleas'd to encourage the</hi> Under<g ref="char:EOLhyphen"/>taker <hi>in this so worthy a Design, by Subscribing to</hi>
+               </p>
+               <list>
+                  <item>Proposal, I.</item>
+                  <item>Prop. II.</item>
+                  <item>Prop. III.</item>
+                  <item>Prop. IV</item>
+                  <item>Prop. V.</item>
+                  <item>Prop. VI.</item>
+                  <item>Prop. VII.</item>
+                  <item>Prop. VIII.</item>
+                  <item>Prop. IX.</item>
+                  <item>Prop. X.</item>
+                  <item>Prop. XI.</item>
+                  <item>Prop. XII.</item>
+               </list>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
